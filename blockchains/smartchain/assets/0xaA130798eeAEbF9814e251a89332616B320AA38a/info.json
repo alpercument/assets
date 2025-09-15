@@ -1,0 +1,11 @@
+{
+  "name": "Easy Coin",
+  "symbol": "EASY",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Easy Coin is a community-driven token built on BNB Smart Chain, focused on accessibility and growth.",
+  "website": "https://easy-coin.github.io",
+  "explorer": "https://bscscan.com/token/0xaA130798eeAEbF9814e251a89332616B320AA38a",
+  "status": "active",
+  "id": "0xaA130798eeAEbF9814e251a89332616B320AA38a"
+}
